@@ -1,0 +1,16 @@
+C:\Users\Slavik\Desktop\Anagram Detection\obj\Debug\net5.0\Anagram Detection.csproj.AssemblyReference.cache
+C:\Users\Slavik\Desktop\Anagram Detection\obj\Debug\net5.0\Anagram Detection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Slavik\Desktop\Anagram Detection\obj\Debug\net5.0\Anagram Detection.AssemblyInfoInputs.cache
+C:\Users\Slavik\Desktop\Anagram Detection\obj\Debug\net5.0\Anagram Detection.AssemblyInfo.cs
+C:\Users\Slavik\Desktop\Anagram Detection\obj\Debug\net5.0\Anagram Detection.csproj.CoreCompileInputs.cache
+C:\Users\Slavik\Desktop\Anagram Detection\bin\Debug\net5.0\Anagram Detection.exe
+C:\Users\Slavik\Desktop\Anagram Detection\bin\Debug\net5.0\Anagram Detection.deps.json
+C:\Users\Slavik\Desktop\Anagram Detection\bin\Debug\net5.0\Anagram Detection.runtimeconfig.json
+C:\Users\Slavik\Desktop\Anagram Detection\bin\Debug\net5.0\Anagram Detection.runtimeconfig.dev.json
+C:\Users\Slavik\Desktop\Anagram Detection\bin\Debug\net5.0\Anagram Detection.dll
+C:\Users\Slavik\Desktop\Anagram Detection\bin\Debug\net5.0\ref\Anagram Detection.dll
+C:\Users\Slavik\Desktop\Anagram Detection\bin\Debug\net5.0\Anagram Detection.pdb
+C:\Users\Slavik\Desktop\Anagram Detection\obj\Debug\net5.0\Anagram Detection.dll
+C:\Users\Slavik\Desktop\Anagram Detection\obj\Debug\net5.0\ref\Anagram Detection.dll
+C:\Users\Slavik\Desktop\Anagram Detection\obj\Debug\net5.0\Anagram Detection.pdb
+C:\Users\Slavik\Desktop\Anagram Detection\obj\Debug\net5.0\Anagram Detection.genruntimeconfig.cache
